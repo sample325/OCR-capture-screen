@@ -1,2 +1,3 @@
 # OCR-capture-screen
 This project makes from idea for improvement about convert text in screen monitor to text and record as log file. 
+According to found problem about we would like to keep data "SUM" after "Write ROM" process in electronics parts manufacturing for record, backed-test and track in case of found problem or customer claim. We can't catch "SUM" in process because computer that use in "Write ROM" not support for capture text directy. So, We decided to use "OCR" method for capture text from screen capture as picture file and feed to "OCR" for extract text and save record as log file.
